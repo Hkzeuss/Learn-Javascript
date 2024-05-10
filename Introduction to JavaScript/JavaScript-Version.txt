@@ -1,0 +1,13 @@
+-----------------CÁC PHIÊN BẢN CỦA JAVASCIPT-----------------
+- JavaScript được phát minh bởi Bredan Eich và đã đạt tới trạng thái tiêu chuẩn ECMA vào năm 1997 và chính thức mang tên ECMAScript.
+- Ngôn ngữ này đã phát triển qua nhiều phiên bản, gồm:
+    + ES1
+    + ES2
+    + ES3
+    + ES5
+    + Và phiên bản đột phá ES6
+- Các bản cập nhật này đã đóng vai trò quan trọng trong việc cải thiện và chuẩn hóa JS, khiến nó trở nên phổ biến và có giá trị trong lính vực phát triển Web luôn biến đổi.
+- Tham khảo thêm:
+    + JavaScript Versions: How JavaScript has changed over the years (https://www.educative.io/blog/javascript-versions-history)
+    + Brief History of JavaScript (https://roadmap.sh/guides/history-of-javascript)
+    + JavaScript Version (https://www.w3schools.com/js/js_versions.asp)
