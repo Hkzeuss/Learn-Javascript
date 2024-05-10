@@ -1,0 +1,7 @@
+-----------------LỊCH SỬ CỦA JAVASCIPT-----------------
+- JavaScript ban đầu được tạo ra bởi Bredan Eich của NetScape và lần đầu tiên được công bố trong một thông cáo báo chí của NetScape vào năm 1995.
+- JS có một lịch sử đặt tên kỳ lạ,; Ban đầu, người tạo ra đã đặt tên là Mocha, sau đó đổi tên thành LiveScript.
+- Vào năm 1996, khoảng 1 năm sau khi được phát hành, NetScape quyết định đổi tên thành JavaScript với hy vọng tận dụng cộng đồng Java (Mặc dù JS không có mối quan hệ gì với JAVA) và phát hành NetScape 2.0 với việc hỗ trợ chính cho JS.
+- Đọc thêm về lịch sử JS:
+   + Brief History of JavaScript (https://roadmap.sh/guides/history-of-javascript)
+   + The Weird History of JavaScript (https://dev.to/codediodeio/the-weird-history-of-javascript-2bnb)
