@@ -1,0 +1,6 @@
+-----------------LÀM SAO ĐỂ CHẠY JAVASCIPT-----------------
+- JavaScript có thể được chạy trong trình duyệt bằng cách bao gồm tập tin Script bên ngoài bằng cách sử dụng các thẻ Script, viết mã HTML sử dụng lại các thẻ Script, chạy trong Console của trình duyệt hoặc bạn cũng có thể sử dụng RELP.
+- Tham khảo thêm:
+    + How To Add JavaScript to HTML (https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html)
+    + How To Write Your First JavaScript Program (https://www.digitalocean.com/community/tutorials/how-to-write-your-first-javascript-program)
+    + How To Use the JavaScript Developer Console (https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-developer-console)
