@@ -1,0 +1,13 @@
+-----------------JAVASCIPT LÀ GÌ?-----------------
+- JavaScript thường được viết tắt là JS, là một ngôn ngữ lập trình, là một trong những công nghệ cốt lõi của World Wide Web cùng với HTML và CSS.
+- JS cho phép chúng ta thêm sự tương tác vào các trang web như là: Thanh trượt, cảnh báo, tương tác click, cửa sổ popup,... Tất cả đều được xây dựng bởi JS
+- Ngoài việc sử dụng trong trình duyệt, JS cũng được sử dụng trong các môi trường không phải là trình duyệt như Node.js để viết mã phía máy chủ bằng JS, Electron để vết ứng dụng máy tính bàn (PC), React Native để viết ứng dụng di động và nhiều nền tảng khác.
+- Các nguồn tài liệu học về JS:
+    + JavaScript MDN Docs (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    + W3Schools – JavaScript Tutorial (https://www.w3schools.com/js/)
+    + The Modern JavaScript Tutorial (https://javascript.info/)
+    + A Comprehensive Course on JavaScript with Quizzes and Exercises - CodeGuage (https://www.codeguage.com/courses/js/)
+    + Exploring JS: JavaScript books for programmers (https://exploringjs.com/)
+    + JavaScript Crash Course for Beginners (https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s)
+    + Build a Netflix Landing Page Clone with HTML, CSS & JS (https://www.youtube.com/watch?v=P7t13SGytRk&t=22s)
+    + Learn JavaScript - Full Course for Beginners (https://www.youtube.com/watch?v=PkZNo7MFNFg)
