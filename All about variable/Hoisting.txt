@@ -1,0 +1,7 @@
+-----------------NÂNG BIẾN-----------------
+- Nâng biến JavaScript (JavaScript Hosting) đề cập đến quá trình thông dịch di chuyển sự khai báo của hàm, biến hoặc lớp về đầu của phạm vi của chúng, trước khi mã được thực thi.
+- Tham khảo thêm:
+    + What is Hoisting - MDN Docs (https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+    + JavaScript Hoisting (https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+    + Understanding hoisting (https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript)
+    + Learn JavaScript Hoisting In 5 Minutes (https://www.youtube.com/watch?v=EvfRXyKa_GI)
