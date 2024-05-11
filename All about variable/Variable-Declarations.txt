@@ -1,0 +1,6 @@
+-----------------KHAI BÁO BIẾN-----------------
+- Để sử dụng khai báo biến, trước tiên chúng ta cần tạo ra nó, tức là khai báo biến.
+- Để khai báo biến, chúng ta sử dụng 1 trong các từ khóa: "var", "let" hoặc const.
+- Tham khảo thêm: 
+    + Storing the information you need — Variables (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+    + JavaScript Variables - CodeGuage (https://www.codeguage.com/courses/js/variables)
