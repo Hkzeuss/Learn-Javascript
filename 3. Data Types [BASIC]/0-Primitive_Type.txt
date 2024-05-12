@@ -1,0 +1,21 @@
+-----------------KIỂU DỮ LIỆU NGUYÊN THỦY-----------------
+- Trong JS, một giá trị nguyên thủy (primitive value, primitive data type) là dữ liệu không phải là 1 đối tượng và
+  không có phương thức hoặc thuộc tính.
+- Một khác biệt đáng chú ý giữa các loại dữ liệu nguyên thủy và không phải nguyên thủy là các loại nguyên thủy chỉ có thể chứa 1 giá trị,
+  Và các giá trị đó phải thuộc cùng 1 loại nguyên thủy.
+- Ngược lại, các loại không phải nguyên thủy có thể chứa 1 số lượng lớn biến đổi của các giá trị, và các giá trị này có thể thuộc các loại nguyên thủy khác nhau.
+- Sự linh hoạt này được thể hiện trong các cấu trúc dữ liệu như mảng và đối tượng.
+
+- Trong ngữ cảnh của các giá trị nguyên thủy, quan trọng nhất là chúng không có phương thức hoặc thuộc tính. Tuy nhiên, JS cho phép truy cập
+  vào các phương thức và thuộc tính liên kết với các loại dữ liệu nguyên thủy như chuỗi (String), số (number), và boolean.
+- Chức năng này là do khả năng của JS chuyển đổi ngầm định các nguyên thủy thành các đối tượng với các đối tượng được bọc khi cần thiết.
+- Khi truy cập thuộc tính trên các nguyên thủy, JS tự đóng gói giá trị vào 1 đối tượng bọc và truy cập thuộc tính trên đối tượng đó.
+
+- Có 7 loại dữ liệu nguyên thủy:
+    + Chuỗi (String)
+    + Số (Number)
+    + Số nguyên lớn (Bigint)
+    + Boolean
+    + Chưa xác định (Undefined)
+    + Ký hiệu (Symbol)
+    + Null
