@@ -1,0 +1,6 @@
+----------------- TOÁN TỬ (TypeOf Operator) -----------------
+- Bạn có thể sử dụng toán tử TypeOf để tìm kiểu dữ liệu của 1 biến trong JS.
+- Nó sẽ trả về 1 chuỗi chỉ ra kiểu dữ liệu của giá trị toán hạng đã cung cấp.
+- Tài liệu tham khảo:
+    + Typeof Reference (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
+    + Typeof Live Examples (https://www.w3schools.com/js/tryit.asp?filename=tryjs_typeof_all)
