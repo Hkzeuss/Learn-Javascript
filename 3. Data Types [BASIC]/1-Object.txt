@@ -1,0 +1,10 @@
+-----------------ĐỐI TƯỢNG (OBJECT)-----------------
+- Đối tượng JS là 1 cấu trúc dữ liệu cho phép chúng ta có các cặp khóa giá trị.
+- Vì vậy, chúng ta có thể có các khóa riêng biệt và mỗi lhoas được ánh xạ vào 1 giá trị có thể là bất kỳ loại dữ liệu JS nào.
+- So sánh với 1 một số đối tượng trong thế giới thực, một cây bút là một đối tượng với một số thuộc tính như màu sắc, thiết kế, vật liệu được làm từ,.v.v.
+- Tương tự, đối tượng (object) JS cũng có thể có các thuộc tính định nghĩa đặc điểm của chúng.
+- Nguồn tham khảo:
+    + Objects (https://javascript.info/object)
+    + Working with Objects (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+    + JavaScript Object Definition (https://www.w3schools.com/js/js_object_definition.asp)
+    + Objects in JavaScript (https://www.geeksforgeeks.org/objects-in-javascript/)
