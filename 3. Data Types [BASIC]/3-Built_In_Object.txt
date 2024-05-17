@@ -1,0 +1,11 @@
+-----------------ĐỐI TƯỢNG TÍCH HỢP DẴN (BUILT IN OBJECT) ----------------- 
+- Các đối tượng tích hợp sẵn, hay còn gọi là "đối tượng toàn cầu", là những đối tượng tích hợp sẵn trong bản mô tả ngôn ngữ.
+- Có nhiều đối tượng tích hợp sẵn trong ngôn ngữ JavaScript, tất cả đều có thể truy cập tại phạm vi toàn cầu.
+- Một số ví dụ bao gồm:
+    + Number
+    + Math
+    + Date
+    + String
+    + Error
+    + Function
+    + boolean
