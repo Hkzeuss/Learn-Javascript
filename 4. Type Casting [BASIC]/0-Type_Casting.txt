@@ -1,0 +1,9 @@
+------------------- ÉP KIỂU -------------------
+- Ép kiểu (type casting) có nghĩa là chuyển đối dữ liệu từ 1 kiểu dữ liệu sang 1 kiểu dữ liệu khác.
+- Chuyển đổi ngầm định xảy ra khi trình biên dịch (đối với các ngôn ngữ  dịch) hoặc thời gian chạy (đối với các ngôn ngữ script như JavaScript) tự động chuyển đổi dữ liệu.
+- Mã nguồn cũng có thể yêu cầu 1 cách rõ ràng để thực hiện việc chuyển đổi.
+- Nguồn tham khảo:
+    + Type Conversions (https://javascript.info/type-conversions)
+    + JavaScript Type Conversion (JavaScript Type Conversion)
+    + Type Casting in JavaScript (https://www.tutorialspoint.com/type-casting-in-javascript)
+    + JavaScript Type Cast (https://www.geeksforgeeks.org/javascript-type-conversion/)
