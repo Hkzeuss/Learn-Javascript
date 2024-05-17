@@ -1,0 +1,8 @@
+---------------- CHUYỂN ĐỔI / ÉP KIỂU ----------------
+- Ép kiểu là quá trình chuyển đổi tự động hoặc ngầm từ 1 kiểu dữ liệu sang 1 kiểu dữ liệu khác (ví duk: từ chuỗi sang số).
+- Chuyển đổi kiểu tư tự như ép kiểu vì cả 2 đều chuyển đổi giá trị từ 1 kiểu dữ liệu sang 1 kiểu dữ liệu khác với 1 sự khác biệt chính - ép kiểu là ngầm định.
+- Ngược lại, chuyển đổi kiểu có thể là ngầm định hoặc rõ ràng.
+- Nguồn tham khảo:
+    + Type Conversion - MDN (https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion)
+    + Type Coercion - MDN (https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
+    + Type Conversion and Coercion video (https://www.youtube.com/watch?v=jfQyMPzPTjY)
